@@ -1,0 +1,13 @@
+config/forge.cfg
+config/forge_early.cfg
+config/forgeChunkLoading.cfg
+config/splash.properties
+mods
+logs
+resourcepacks
+saves
+screenshots
+server-resource-packs
+shaderpacks
+texturepacks
+icon.png
