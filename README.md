@@ -2,7 +2,7 @@
 
 
 ### 日本語
-Cleanroom-Loader推奨です
+Cleanroom-Loader推奨です<br>
 現在ブランチは２つありCRLはCleanroom-Loader版でCFはcurseforge版で分けています
 
 ### English 
