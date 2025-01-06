@@ -1,7 +1,5 @@
-config/forge.cfg
-config/forge_early.cfg
-config/forgeChunkLoading.cfg
-config/splash.properties
+#Gitの管理から除外するファイルのリスト
+config/*
 mods
 logs
 resourcepacks
@@ -11,3 +9,20 @@ server-resource-packs
 shaderpacks
 texturepacks
 icon.png
+local
+usernamecache.json
+usercache.json
+crafttweaker.log
+options.txt
+vintagefix
+cache
+
+
+#configの除外しないファイルのリスト
+!/config/Universal Tweaks - Bugfixes.cfg
+!/config/Universal Tweaks - Tweaks.cfg
+!/config/Universal Tweaks - General.cfg
+!/config/Universal Tweaks - Mod Integration.cfg
+!/config/stellar_core.cfg
+!/config/sledgehammer.conf
+
