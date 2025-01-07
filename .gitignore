@@ -16,6 +16,7 @@ crafttweaker.log
 options.txt
 vintagefix
 cache
+crash-reports
 
 
 #configの除外しないファイルのリスト
@@ -25,4 +26,5 @@ cache
 !/config/Universal Tweaks - Mod Integration.cfg
 !/config/stellar_core.cfg
 !/config/sledgehammer.conf
+!/config/ZenUtils.cfg
 
