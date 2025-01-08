@@ -17,7 +17,7 @@ options.txt
 vintagefix
 cache
 crash-reports
-
+journeymap
 
 #configの除外しないファイルのリスト
 !/config/Universal Tweaks - Bugfixes.cfg
@@ -27,4 +27,5 @@ crash-reports
 !/config/stellar_core.cfg
 !/config/sledgehammer.conf
 !/config/ZenUtils.cfg
+!/config/aeadditions.cfg
 
