@@ -18,6 +18,13 @@ vintagefix
 cache
 crash-reports
 journeymap
+hei_bookmarks.ini
+
+
+#WIP
+groovy/postInit/MMCE
+groovy/preInit/mmce-Multiblock-register.groovy
+
 
 #configの除外しないファイルのリスト
 !/config/Universal Tweaks - Bugfixes.cfg
