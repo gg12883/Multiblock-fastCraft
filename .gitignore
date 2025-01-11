@@ -35,4 +35,5 @@ groovy/preInit/mmce-Multiblock-register.groovy
 !/config/sledgehammer.conf
 !/config/ZenUtils.cfg
 !/config/aeadditions.cfg
+!/config/extendedcrafting.cfg
 
