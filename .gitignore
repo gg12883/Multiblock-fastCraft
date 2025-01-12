@@ -36,4 +36,5 @@ groovy/preInit/mmce-Multiblock-register.groovy
 !/config/ZenUtils.cfg
 !/config/aeadditions.cfg
 !/config/extendedcrafting.cfg
+!/config/vintagefix.properties
 
