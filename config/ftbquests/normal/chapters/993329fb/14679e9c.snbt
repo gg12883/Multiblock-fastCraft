@@ -1,0 +1,27 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	text: [
+		"用法用量を守って正しくお使いください。"
+	],
+	dependencies: [
+		"9234dd9d"
+	],
+	tasks: [{
+		uid: "a86db7d1",
+		type: "item",
+		items: [{
+			id: "buildinggadgets:copypastetool",
+			tag: {
+				mode: "Copy"
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cd338539",
+		type: "item",
+		item: "storagedrawers:upgrade_storage 1 4"
+	}]
+}

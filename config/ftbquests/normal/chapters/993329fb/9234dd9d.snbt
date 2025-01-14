@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	text: [
+		"このModpackにバグがあったらDiscordかGithubにてissuesを開いてください。"
+	],
+	tasks: [{
+		uid: "7a1a73d0",
+		type: "checkmark",
+		title: "このmodpackについて",
+		icon: "minecraft:grass"
+	}],
+	rewards: [{
+		uid: "1b804d23",
+		type: "item",
+		item: "minecraft:bread",
+		count: 3
+	}]
+}
