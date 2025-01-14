@@ -24,6 +24,7 @@ hei_bookmarks.ini
 #WIP
 groovy/postInit/MMCE
 groovy/preInit/mmce-Multiblock-register.groovy
+scripts/MMCE/Multiblock-register.zs
 
 
 #configの除外しないファイルのリスト
